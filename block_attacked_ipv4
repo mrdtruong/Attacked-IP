@@ -1,7 +1,7 @@
 # https://github.com/mrdtruong/Attacked-IP
-# 150 host IPv4 addresses are currently being blocked.
+# 151 host IPv4 addresses are currently being blocked.
 # Edited by: Daniel Truong
-# Date: 06/May/2018 - 11:50 PM
+# Date: 06/May/2018 - 11:52 PM
 1.196.244.182
 103.27.176.86
 104.168.139.233
@@ -145,6 +145,7 @@
 84.201.243.244
 86.110.119.18
 89.39.107.199
+90.151.80.135
 90.151.80.29
 90.151.87.42
 90.151.88.172
